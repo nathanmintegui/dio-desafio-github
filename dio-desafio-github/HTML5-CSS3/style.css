@@ -1,0 +1,16 @@
+.subtitle {
+    font-size: 60px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.posts {
+    font-size: 30px;
+    margin-bottom: 1%;
+}
+.p {
+    font-size: 20px;
+}
+.images {
+    border-radius: 8px;
+}
